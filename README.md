@@ -1,5 +1,3 @@
-# Untitled
-
 # ***Echo Effect Simulation***
 
 ## ***(Alireza Tabatabaeian)***
