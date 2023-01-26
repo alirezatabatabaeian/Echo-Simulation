@@ -24,4 +24,4 @@
 
 **The result will be shown on the below:**
 
-![fig](./resources/fig.png)
+<div style="text-align:center"><img src=".\resources\fig.png" /></div>
