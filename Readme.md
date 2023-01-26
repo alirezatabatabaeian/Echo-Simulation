@@ -24,4 +24,4 @@
 
 **The result will be shown on the below:**
 
-![fig](fig%resources/fig.png)
+![fig](./resources/fig.png)
