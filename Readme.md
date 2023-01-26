@@ -24,4 +24,4 @@
 
 **The result will be shown on the below:**
 
-![Untitled](Untitled%resources/fig.png)
+![fig](fig%resources/fig.png)
